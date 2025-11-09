@@ -1,0 +1,27 @@
+[
+  {
+    "company": {
+      "slug": "tremmel-aufzuege-gmbh-cokg-1710405",
+      "uuid": "00505682-f25b-1ee9-bd91-d262758ff7fb",
+      "name": "Tremmel Aufz\u00fcge GmbH & Co.KG",
+      "email": "info@tremmel-aufzuege.de",
+      "phone_number": "+499929581970",
+      "homepage": "http://www.tremmel-aufzuege.de/",
+      "employee_count": "20-49",
+      "founding_year": 2011,
+      "address": {
+        "city": "Patersdorf",
+        "country_code": "DE"
+      },
+      "contacts": [
+        {
+          "first_name": "Werner",
+          "last_name": "Tremmel",
+          "email": "info@tremmel-aufzuege.de"
+        }
+      ],
+      "logo_url": "https://.../316d3049.jpeg",
+      "description": "We specialize in modernization, renovation, and service for passenger elevators."
+    }
+  }
+]
