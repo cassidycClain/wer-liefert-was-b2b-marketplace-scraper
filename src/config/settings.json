@@ -1,0 +1,10 @@
+{
+  "base_url": "https://www.wlw.de",
+  "language": "de",
+  "region": "DE",
+  "mode": "company",
+  "max_pages": 1,
+  "include_company_details": true,
+  "output_dir": "data",
+  "output_filename": "sample_output.json"
+}
